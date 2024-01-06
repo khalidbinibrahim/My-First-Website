@@ -103,3 +103,8 @@ footer {
     color: #bc6c25;
     text-decoration: none;
 }
+
+.efg i {
+    font-size: larger;
+    padding: 0px 5px;
+}
